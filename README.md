@@ -78,7 +78,7 @@ O método de desenvolvimento escolhido foi todos iniciarem o desenvolvimento de 
 
 Na tabela aqui abaixo, pode-se ver as metas propostas assim como as datas previstas e se foram cumpridas ou não.
 
-| Start     |  End      | Atividades                                            | Achieve   | At Time?  |
+| Start     |  End      | Activities                                            | Achieved   | At Time?  |
 |:-----:    |:-----:    |------------------------------------------------------ |---------  |---------- |
 | 07/10     | 13/10     | Arte do jogo, músicas                                 | No        | No        |
 | 14/10     | 20/10     | Implementação de mecânicas - movimentos e interações  | Sim       | +10 Dias  |
