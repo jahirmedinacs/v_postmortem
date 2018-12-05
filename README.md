@@ -2,6 +2,8 @@ ___
 
 # G12 Postmortem
 
+[Slides](./Post_Mortem.pdf "Slides")
+
 * Jahir Gilberth Medina Lopez
     - **USP# :** *10659682*
 
