@@ -2,6 +2,10 @@ ___
 
 # G12 Postmortem
 
+[Slides PDF](./Post_Mortem.pdf "Slides")
+
+[Slides Online](https://goo.gl/PZZqtd "Google Slides")
+
 * Jahir Gilberth Medina Lopez
     - **USP# :** *10659682*
 
