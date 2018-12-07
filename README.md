@@ -36,7 +36,7 @@ Durante as aulas recebidas, nós começamos a perceber que otimizar as mecânica
 Uma das ideias originais foi fazer um [**shoot'em up *tático***](http://hotlinemiami.com/ "Hotline Miami"), entre outras.
 Após uma discussão entre os membros do grupo foi combinado fazer uma mudança de tipo de jogo.
 
-A gente decidiu fazer um **um jogo de luta**, um dos membros surgiu com essa ideia em um momento que a gente ainda tinha nem considerado o *cronograma de desenvolvimento*, mas a ideia foi tão legal e empolgante, que ninguém reparou nisso.
+A gente decidiu fazer **um jogo de luta**, um dos membros surgiu com essa ideia em um momento que a gente ainda tinha nem considerado o *cronograma de desenvolvimento*, mas a ideia foi tão legal e empolgante, que ninguém reparou nisso.
 
 Uma coisa importante a detalhar é o desejo do *team* de quer fazer um jogo de luta, de **[*gameplay* frenético](https://www.adultswim.com/games/pc-console/duck-game/ "DuckGame") e [partidas curtas](http://nidhogggame.com/ "Nidhogg")**, mas foi um escopo de jogo fora de nossos limites.
 
